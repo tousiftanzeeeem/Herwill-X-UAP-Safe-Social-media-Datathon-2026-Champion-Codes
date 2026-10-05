@@ -151,6 +151,7 @@ Point the path variables in each notebook's first config cell at your own inputs
 | Member | GitHub |
 |---|---|
 | **Tanzim Tousif** | [tousiftanzeeeem](https://github.com/tousiftanzeeeem) |
+| **Mohammed Afham Adian** | [AfhamAdian](https://github.com/AfhamAdian) |
 
 <!-- Add remaining members here, e.g.:
 | **Name** | [handle](https://github.com/handle) |

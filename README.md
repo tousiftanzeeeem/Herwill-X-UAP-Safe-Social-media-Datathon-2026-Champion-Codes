@@ -16,6 +16,15 @@
 
 </div>
 
+<div align="center">
+
+### 🥇 [**View the Competition Leaderboard on Kaggle**](https://www.kaggle.com/competitions/HerWILL-Safe-Social-Media-Datathon-2026/leaderboard)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Leaderboard-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/competitions/HerWILL-Safe-Social-Media-Datathon-2026/leaderboard)
+[![Competition](https://img.shields.io/badge/Competition-Overview-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/competitions/HerWILL-Safe-Social-Media-Datathon-2026)
+
+</div>
+
 ---
 
 ## 🧠 Overview

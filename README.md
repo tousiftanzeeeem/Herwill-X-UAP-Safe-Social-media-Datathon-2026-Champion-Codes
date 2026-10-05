@@ -91,7 +91,6 @@ notebooks/
   04_inference_ensemble.ipynb       production inference → submission.csv
 config/
   ensemble_config.json              the exact bundle used for the winning submission
-score.py                            local macro-F1 scorer with bootstrap confidence intervals
 FatWiz_Onsite_Presentation.pdf      slides from the onsite final round
 ```
 
@@ -152,6 +151,7 @@ Point the path variables in each notebook's first config cell at your own inputs
 |---|---|
 | **Tanzim Tousif** | [tousiftanzeeeem](https://github.com/tousiftanzeeeem) |
 | **Mohammed Afham Adian** | [AfhamAdian](https://github.com/AfhamAdian) |
+| **Arafat Rahman** | [arafatrahman216](https://github.com/arafatrahman216) |
 
 <!-- Add remaining members here, e.g.:
 | **Name** | [handle](https://github.com/handle) |

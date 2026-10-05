@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.csv
+*.npy
+*.pt
+*.joblib
+data/
+ensemble_bundle/
+.DS_Store

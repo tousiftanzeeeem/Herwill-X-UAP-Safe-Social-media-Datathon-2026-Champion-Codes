@@ -11,7 +11,7 @@
 ![Award](https://img.shields.io/badge/Award-Champion-gold?style=for-the-badge)
 ![Event](https://img.shields.io/badge/Event-HerWILL%20%C3%97%20UAP%20Datathon%202026-blue?style=for-the-badge)
 ![Score](https://img.shields.io/badge/Macro%20F1-0.77514-brightgreen?style=for-the-badge)
-![Rank](https://img.shields.io/badge/Leaderboard-1st%20of%2020-purple?style=for-the-badge)
+![Rank](https://img.shields.io/badge/Leaderboard-1st%20of%2055-purple?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Languages-Bangla%20%7C%20English%20%7C%20Banglish-orange?style=for-the-badge)
 
 </div>
@@ -29,7 +29,7 @@ not to intuition about what should work.
 
 | | |
 |---|---|
-| **Private leaderboard** | **0.77514** macro F1 — 1st of 20 teams |
+| **Private leaderboard** | **0.77514** macro F1 — 1st of 55 teams |
 | **Margin over 2nd** | +0.0197 (larger than the entire 2nd→4th spread) |
 | **Majority-class baseline** | 0.22129 |
 | **Corpus** | 47,817 train / 11,955 test, raw text, no metadata |
@@ -83,6 +83,7 @@ notebooks/
 config/
   ensemble_config.json              the exact bundle used for the winning submission
 score.py                            local macro-F1 scorer with bootstrap confidence intervals
+FatWiz_Onsite_Presentation.pdf      slides from the onsite final round
 ```
 
 > **Note:** the competition dataset is **not** included. Per the competition rules, the
@@ -125,6 +126,14 @@ Point the path variables in each notebook's first config cell at your own inputs
   the exact-match override all failed to transfer. Only the class priors survived.
 - **ZWJ/ZWNJ preserved.** `U+200C` / `U+200D` are never stripped — removing them corrupts
   Bengali orthography and emoji sequences.
+
+---
+
+## 📜 Documents
+
+- 📊 **[Onsite Presentation](FatWiz_Onsite_Presentation.pdf)** — the deck presented in the
+  final round: data measurements, the three findings, the final system, and the approaches
+  that did not work
 
 ---
 
